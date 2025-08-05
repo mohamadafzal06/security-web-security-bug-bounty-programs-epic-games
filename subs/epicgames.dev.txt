@@ -1,0 +1,6 @@
+api.epicgames.dev
+connect.epicgames.dev
+.epicgames.dev
+epicgames.dev
+v2.api.epicgames.dev
+www.epicgames.dev

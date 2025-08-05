@@ -1,0 +1,11 @@
+ca.email.psyonix.com
+e.email.psyonix.com
+flat.psyonix.com
+images.email.psyonix.com
+mail.psyonix.com
+.psyonix.com
+psyonix.com
+stats.psyonix.com
+view.email.psyonix.com
+www.psyonix.com
+www.stats.psyonix.com

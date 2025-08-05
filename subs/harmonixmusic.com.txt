@@ -1,0 +1,12 @@
+admin.harmonixmusic.com
+cloud.harmonixmusic.com
+connect.harmonixmusic.com
+forums.harmonixmusic.com
+.harmonixmusic.com
+harmonixmusic.com
+helpdesk.harmonixmusic.com
+lync.harmonixmusic.com
+mail.harmonixmusic.com
+.s3.harmonixmusic.com
+support.harmonixmusic.com
+www.harmonixmusic.com
